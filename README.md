@@ -41,9 +41,6 @@ Soy un desarrollador con experiencia en el ciclo completo de vida del software, 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
-*Esta es una base, ¡no dudes en añadir más tecnologías que domines!*
-
----
 
 ### 🚀 Mis Proyectos Principales
 
@@ -53,7 +50,7 @@ Soy un desarrollador con experiencia en el ciclo completo de vida del software, 
       <h3 align="center">AgroCor - Plataforma de Gestión Agrícola</h3>
       <div align="center">
         <a href="https://github.com/ft-whit-luis/Integrador-AgroCor" target="_blank">
-          <img src="URL_DE_IMAGEN_DE_AGROCOR" alt="Proyecto AgroCor" style="width:100%;">
+          <img src="https://imgs.search.brave.com/CO3yp_XBbp4mN9nxjtPx6lSHlScupoeSei4eOgnFd7c/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9kMWhi/cHIwOXB3ejBzay5j/bG91ZGZyb250Lm5l/dC9sb2dvX3VybC9h/Z3JvY29yLWY2NDJh/ZjVl" alt="Proyecto AgroCor" style="width:100%;">
         </a>
         <br>
         <p>
@@ -68,7 +65,7 @@ Soy un desarrollador con experiencia en el ciclo completo de vida del software, 
       <h3 align="center">eTesla - Interfaz de Prototipo</h3>
       <div align="center">
         <a href="https://github.com/ft-whit-luis/eTesla-Front" target="_blank">
-           <img src="URL_DE_IMAGEN_DE_ETESLA" alt="Proyecto eTesla" style="width:100%;">
+           <img src="https://imgs.search.brave.com/sVwkioDEwI9DNkBDzvdDpSDVYHog0z-H9lvDIu5omms/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5saWNkbi5jb20v/ZG1zL2ltYWdlL0M0/RTFCQVFGTUZ3WWFy/aV95cGcvY29tcGFu/eS1iYWNrZ3JvdW5k/XzEwMDAwLzAvMTYy/NDI5OTc5NTEyMi9l/dGVzbGFfY292ZXI_/ZT0yMTQ3NDgzNjQ3/JnY9YmV0YSZ0PU55/ZXRHTDd5SFRsd3FS/Snc5UDBZQks2TERB/SW1xNmdFS2JRZnFn/ekZ2djg" alt="Proyecto eTesla" style="width:100%;">
         </a>
         <br>
         <p>
