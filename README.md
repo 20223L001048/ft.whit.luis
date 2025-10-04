@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="URL_DE_TU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/luis-salvador-romero-aguilar-22088b388/)" alt="LinkedIn"/>
   </a>
 </p>
 
