@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hola 👋, soy Luis
+  Hola , soy Luis Salvador Romero Aguilar
 </h1>
 <p align="center">
   Desarrollador de Software enfocado en la creación de soluciones web y de API robustas.
@@ -13,13 +13,13 @@
 
 ---
 
-### 👨‍💻 Sobre Mí
+### Sobre Mí
 
 Soy un desarrollador con experiencia en el ciclo completo de vida del software, desde el diseño de APIs RESTful hasta la implementación de interfaces de usuario. Me apasiona transformar ideas en soluciones funcionales y eficientes. Actualmente, busco oportunidades para aplicar mis habilidades en entornos desafiantes y colaborar en proyectos innovadores.
 
 ---
 
-### 🛠️ Mi Stack Tecnológico
+### Mi Stack Tecnológico
 
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -42,7 +42,7 @@ Soy un desarrollador con experiencia en el ciclo completo de vida del software, 
   </a>
 </p>
 
-### 🚀 Mis Proyectos Principales
+### Mis Proyectos Principales
 
 <table>
   <tr>
